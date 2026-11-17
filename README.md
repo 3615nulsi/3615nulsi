@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm **Florent**, an orthoptist in Montpellier, France 🇫🇷.
-When I'm not working on sick retinas, I build **Home Assistant** integrations, mostly around my city and the devices in my home, with a strong preference for open data and local control.
+I'm **Flo**, from Montpellier, France 🇫🇷.
+I build **Home Assistant** integrations, mostly around my city and the devices in my home, with a strong preference for open data and local control.
 
 ---
 
