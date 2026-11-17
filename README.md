@@ -9,7 +9,7 @@ When I'm not working on sick retinas, I build **Home Assistant** integrations, m
 
 | Project | What it does |
 |---|---|
-| 🟧 **[ha-awtrix-studio](https://github.com/3615nulsi/ha-awtrix-studio)** | **New!** AWTRIX 3 apps and indicators that update themselves, with no automations: simple forms or Jinja templates, a sidebar panel that mirrors the clock's screen, live preview, and every LaMetric icon without uploading |
+|🛠️ **[ha-awtrix-studio](https://github.com/3615nulsi/ha-awtrix-studio)** | AWTRIX 3 & NG apps and indicators that update themselves, with no automations: simple forms or Jinja templates, a sidebar panel that mirrors the clock's screen, live preview, and every LaMetric icon without uploading |
 | 🚋 **[ha-tam-montpellier](https://github.com/3615nulsi/ha-tam-montpellier)** | Real-time Montpellier tramway (TaM) departures and disruptions from GTFS-Realtime, plus a TaM-styled Lovelace card |
 | 🚲 **[velos_montpellier](https://github.com/3615nulsi/velos_montpellier)** | Daily counts from Montpellier Méditerranée Métropole's bike counters, straight from open data |
 | ⚡ **[ha-geocover](https://github.com/3615nulsi/ha-geocover)** | Unofficial integration for Decathlon Geocover connected e-bikes |
